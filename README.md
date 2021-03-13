@@ -15,7 +15,7 @@
 - 💻 Java | C# 
 - 🛢 MySQL | Postgresql 
 - 🔧 Visual Studio Code | Git
-- :building_construction: Ansilbe | Terraform
+- :building_construction: Ansilbe | Terraform | Docker (a little bit)
 
 - ✨ I'm very happy because this is (my first NPM package)[https://www.npmjs.com/package/lib-anonymization]
 
