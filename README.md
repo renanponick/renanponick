@@ -17,8 +17,10 @@
 - 🔧 Visual Studio Code | Git
 - :building_construction: Ansilbe | Terraform | Docker (a little bit)
 
-- ✨ I'm very happy because this is (my first NPM package)[https://www.npmjs.com/package/lib-anonymization]
+- ✨ I'm very happy because this is [my first NPM package](https://www.npmjs.com/package/lib-anonymization)
 
 ⚡ The characteristics that I want to keep are: commitment, passion, fast learning and dedication with everything I work with. I'm always working to improve these characteristics in me. ⚡
 
 - You can to follow me at Linked-In, <a href="https://www.linkedin.com/in/renan-ponick-9107a5174//">I'm here!</a>
+
+[![renanponick's github stats](https://github-readme-stats.vercel.app/api?username=renanponick&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/renanponick)
