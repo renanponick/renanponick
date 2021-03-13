@@ -2,7 +2,6 @@
 
 ## A little abount myself
 
-- 📫 I live in Joinville.
 - 💼 I'm working at @nginformatica, as a back-end programmer and love my work;
 - 🎓 I'm studying Analysis and Systems Development at SENAC-SC;
 
