@@ -3,7 +3,7 @@
 ## A little abount myself
 
 - 💼 I'm working at @nginformatica, as a back-end programmer and love my work;
-- 🎓 I'm studying Analysis and Systems Development at SENAC-SC;
+- 🎓 I'm graduated in Analysis and Systems Development at SENAC-SC;
 
 - 🌱 I like to learn about everything.
 - 🔭 I'm into exact sciences, numbers and logic are my passion, I also like philosophy, history, psychology and neuroscience.
@@ -15,7 +15,7 @@
 - 💻 Java | C# 
 - 🛢 MySQL | Postgresql 
 - 🔧 Visual Studio Code | Git
-- :building_construction: Ansilbe | Terraform | Docker (a little bit)
+- :building_construction: Ansilbe | Terraform | Docker | AWS
 
 - ✨ I'm very happy because this is [my first NPM package](https://www.npmjs.com/package/lib-anonymization)
 
