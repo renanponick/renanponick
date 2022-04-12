@@ -2,7 +2,7 @@
 
 ## A little abount myself
 
-- 💼 I'm working at @nginformatica, as a back-end programmer and love my work;
+- 💼 I'm working at @nginformatica, as a DevOps and back-end programmer and love my work;
 - 🎓 I'm graduated in Analysis and Systems Development at SENAC-SC;
 
 - 🌱 I like to learn about everything.
