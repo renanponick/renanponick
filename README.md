@@ -23,6 +23,6 @@
 
 - You can to follow me at Linked-In, <a href="https://www.linkedin.com/in/renan-ponick-9107a5174//">I'm here!</a>
 
-[![renanponick's github stats](https://github-readme-stats.vercel.app/api?username=renanponick&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/renanponick)
+[![renanponick's github stats](https://github-readme-stats.vercel.app/api?username=renanponick&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/renanponick)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanponick&show_icons=true&theme=merko)](https://github.com/renanponick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanponick&show_icons=true&theme=radical&layout=compact)](https://github.com/renanponick/github-readme-stats)
