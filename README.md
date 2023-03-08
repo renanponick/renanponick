@@ -1,6 +1,6 @@
 # Hi there, I'm Renan Ponick 👋
 
-## A little abount myself
+## A little about myself
 
 - 💼 I'm working at @nginformatica, as a DevOps and back-end programmer;
 - 💼 I'm an IT teacher at SENAC;
