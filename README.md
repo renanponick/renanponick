@@ -2,10 +2,11 @@
 
 ## A little about myself
 
-- 💼 I'm working at @nginformatica, as a DevOps and back-end programmer;
+- 💼 I'm working at @nginformatica, as a Software Coordinator;
 - 💼 I'm an IT teacher at SENAC;
 - 🎓 I'm graduated in Analysis and Systems Development at SENAC-SC;
-- 🎓 I'm doing my MBA in Cybersecurity at IGTI (Xp Educação);
+- 🎓 I'm graduated in MBA in Cybersecurity at IGTI (Xp Educação);
+- 🎓 I'm doing my MBA in People Management at SENAC (EAD);
 
 - 🌱 I like to learn about everything.
 - 🔭 I'm into exact sciences, numbers and logic are my passion, I also like philosophy, history, psychology and neuroscience.
@@ -13,13 +14,14 @@
 
 ## 💻 Tech Stack 💻
  
-- 🌐 HTML | CSS | JavaScript | TypeScript | NodeJS | TypeORM | GraphQL |
-- 💻 Java | C# 
-- 🛢 MySQL | Postgresql 
+- 🌐 HTML | CSS | JavaScript | React | React-Native
+- 💻 TypeScript | NodeJS | TypeORM | GraphQL
+- 💻 Java | C# | C++ | Python | Shell
+- 🛢 MySQL | Postgresql | Mongo (basic only) 
 - 🔧 Visual Studio Code | Git
 - :building_construction: Ansilbe | Terraform | Docker | AWS
 
-- ✨ I'm very happy because this is [my first NPM package](https://www.npmjs.com/package/lib-anonymization)
+- ✨ This is [my first NPM package](https://www.npmjs.com/package/lib-anonymization)
 
 ⚡ The characteristics that I want to keep are: commitment, passion, fast learning and dedication with everything I work with. I'm always working to improve these characteristics in me. ⚡
 
