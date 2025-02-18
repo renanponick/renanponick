@@ -6,20 +6,24 @@
 - 💼 I'm an IT teacher at SENAC;
 - 🎓 I'm graduated in Analysis and Systems Development at SENAC-SC;
 - 🎓 I'm graduated in MBA in Cybersecurity at IGTI (Xp Educação);
-- 🎓 I'm doing my MBA in People Management at SENAC (EAD);
+- 🎓 I'm graduated in MBA in People Management at SENAC (EAD);
 
 - 🌱 I like to learn about everything.
 - 🔭 I'm into exact sciences, numbers and logic are my passion, I also like philosophy, history, psychology and neuroscience.
 - 💬 I believe that knowledge frees and ignorance enslaves.
 
 ## 💻 Tech Stack 💻
- 
-- 🌐 HTML | CSS | JavaScript | React | React-Native
-- 💻 TypeScript | NodeJS | TypeORM | GraphQL
-- 💻 Java | C# | C++ | Python | Shell
-- 🛢 MySQL | Postgresql | Mongo (basic only) 
-- 🔧 Visual Studio Code | Git
-- :building_construction: Ansilbe | Terraform | Docker | AWS
+
+- 🌐 **Frontend**: HTML, CSS, JavaScript, React
+- 💻 **Backend**: TypeScript, NodeJS, Express, TypeORM, GraphQL, RabbitMQ, Rest
+- 🏗️ **Infra**: Terraform, Ansible, NGINX, Docker, CloudFlare, Shell, AWS, Azure Pipelines
+- 📊 **Monitoramento**: Grafana, Prometheus, New Relic
+- 🛢️ **Databases**: PostgreSQL, MySQL
+- 🔧 **Tools**: Visual Studio Code, Git
+  
+## 💻 Tech Stack (Basic Only) 💻
+- 💻 Java, C#, C++, Python, PHP, React-Native, Flutter
+- 🛢️ MongoDB, Redis
 
 - ✨ This is [my first NPM package](https://www.npmjs.com/package/lib-anonymization)
 
